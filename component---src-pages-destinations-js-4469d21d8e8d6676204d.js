@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[270],{3022:function(e,t,a){a.r(t);var n=a(7294),s=(a(1597),a(2)),l=a(262);t.default=function(){return n.createElement(s.Z,null,n.createElement(l.Z,{title:"Destinations"}),n.createElement("h1",{className:"destinations"},"Destinations"))}}}]);
+//# sourceMappingURL=component---src-pages-destinations-js-4469d21d8e8d6676204d.js.map
